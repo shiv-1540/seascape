@@ -1,9 +1,6 @@
 "initiating file1 " 
-<<<<<<< HEAD
 
 
 "line2 by shiv " 
 
 
-=======
->>>>>>> parent of 2a6247b (line2 by shiv in file4)
